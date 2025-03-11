@@ -1,0 +1,118 @@
+{
+	"info": {
+		"_postman_id": "874e92f6-ad64-4828-adfb-02fc6f66562b",
+		"name": "SportradarSkillsTest",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "8968206"
+	},
+	"item": [
+		{
+			"name": "Initialize",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/bets/initialize",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"bets",
+						"initialize"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Add bet",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": 99,\r\n    \"amount\": 1000,\r\n    \"odds\": 2.1,\r\n    \"client\": \"Mike\",\r\n    \"event\": \"Snail Racing\",\r\n    \"market\": \"Draw\",\r\n    \"status\": \"OPEN\",\r\n    // \"status\": \"WINNER\",\r\n    \"selection\": \"Turbo\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/bets",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"bets"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Summary",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/bets/summary",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"bets",
+						"summary"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Bets to Review",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/bets/review",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"bets",
+						"review"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Shutdown",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/bets/shutdown",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"bets",
+						"shutdown"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

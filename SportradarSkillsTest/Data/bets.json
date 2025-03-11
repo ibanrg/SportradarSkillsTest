@@ -1,0 +1,1002 @@
+[
+    {
+        "Id": 1,
+        "Amount": 73.8,
+        "Odds": 3.37,
+        "Client": "Bob",
+        "Event": "Basketball Game",
+        "Market": "Draw",
+        "Selection": "Team A",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 1,
+        "Amount": 73.8,
+        "Odds": 3.37,
+        "Client": "Bob",
+        "Event": "Basketball Game",
+        "Market": "Draw",
+        "Selection": "Team A",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 2,
+        "Amount": 168.08,
+        "Odds": 3.03,
+        "Client": "Noah",
+        "Event": "Baseball Game",
+        "Market": "Handicap",
+        "Selection": "Team A",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 2,
+        "Amount": 168.08,
+        "Odds": 3.03,
+        "Client": "Noah",
+        "Event": "Baseball Game",
+        "Market": "Handicap",
+        "Selection": "Team A",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 3,
+        "Amount": 487.99,
+        "Odds": 2.91,
+        "Client": "Karl",
+        "Event": "Basketball Game",
+        "Market": "Game Winner",
+        "Selection": "Horse 2",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 3,
+        "Amount": 487.99,
+        "Odds": 2.91,
+        "Client": "Karl",
+        "Event": "Basketball Game",
+        "Market": "Game Winner",
+        "Selection": "Horse 2",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 4,
+        "Amount": 455.83,
+        "Odds": 2.17,
+        "Client": "Nancy",
+        "Event": "Baseball Game",
+        "Market": "First Goal",
+        "Selection": "Team A",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 4,
+        "Amount": 455.83,
+        "Odds": 2.17,
+        "Client": "Nancy",
+        "Event": "Baseball Game",
+        "Market": "First Goal",
+        "Selection": "Team A",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 5,
+        "Amount": 50.88,
+        "Odds": 3.35,
+        "Client": "Charlie",
+        "Event": "Basketball Game",
+        "Market": "Draw",
+        "Selection": "Team B",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 5,
+        "Amount": 50.88,
+        "Odds": 3.35,
+        "Client": "Charlie",
+        "Event": "Basketball Game",
+        "Market": "Draw",
+        "Selection": "Team B",
+        "Status": "VOID"
+    },
+    {
+        "Id": 6,
+        "Amount": 420.53,
+        "Odds": 2.98,
+        "Client": "Ursula",
+        "Event": "Horse Race",
+        "Market": "Winner",
+        "Selection": "Over 2.5",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 6,
+        "Amount": 420.53,
+        "Odds": 2.98,
+        "Client": "Ursula",
+        "Event": "Horse Race",
+        "Market": "Winner",
+        "Selection": "Over 2.5",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 7,
+        "Amount": 321.01,
+        "Odds": 2.34,
+        "Client": "Grace",
+        "Event": "Soccer Match",
+        "Market": "Winner",
+        "Selection": "Player Y",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 7,
+        "Amount": 321.01,
+        "Odds": 2.34,
+        "Client": "Grace",
+        "Event": "Soccer Match",
+        "Market": "Winner",
+        "Selection": "Player Y",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 8,
+        "Amount": 437.12,
+        "Odds": 1.6,
+        "Client": "Oscar",
+        "Event": "Basketball Game",
+        "Market": "First Goal",
+        "Selection": "Horse 1",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 8,
+        "Amount": 437.12,
+        "Odds": 1.6,
+        "Client": "Oscar",
+        "Event": "Basketball Game",
+        "Market": "First Goal",
+        "Selection": "Horse 1",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 9,
+        "Amount": 308.33,
+        "Odds": 3.03,
+        "Client": "Linda",
+        "Event": "Baseball Game",
+        "Market": "First Goal",
+        "Selection": "Over 2.5",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 9,
+        "Amount": 308.33,
+        "Odds": 3.03,
+        "Client": "Linda",
+        "Event": "Baseball Game",
+        "Market": "First Goal",
+        "Selection": "Over 2.5",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 10,
+        "Amount": 80.74,
+        "Odds": 1.75,
+        "Client": "Liam",
+        "Event": "Baseball Game",
+        "Market": "Over/Under",
+        "Selection": "Horse 2",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 10,
+        "Amount": 80.74,
+        "Odds": 1.75,
+        "Client": "Liam",
+        "Event": "Baseball Game",
+        "Market": "Over/Under",
+        "Selection": "Horse 2",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 11,
+        "Amount": 117.41,
+        "Odds": 2.34,
+        "Client": "Yvonne",
+        "Event": "Tennis Match",
+        "Market": "Over/Under",
+        "Selection": "Horse 1",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 11,
+        "Amount": 117.41,
+        "Odds": 2.34,
+        "Client": "Yvonne",
+        "Event": "Tennis Match",
+        "Market": "Over/Under",
+        "Selection": "Horse 1",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 12,
+        "Amount": 485.63,
+        "Odds": 2.18,
+        "Client": "Emma",
+        "Event": "Baseball Game",
+        "Market": "Total Points",
+        "Selection": "Player X",
+        "Status": "VOID"
+    },
+    {
+        "Id": 12,
+        "Amount": 485.63,
+        "Odds": 2.18,
+        "Client": "Emma",
+        "Event": "Baseball Game",
+        "Market": "Total Points",
+        "Selection": "Player X",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 13,
+        "Amount": 488.38,
+        "Odds": 1.65,
+        "Client": "Xander",
+        "Event": "Soccer Match",
+        "Market": "Winner",
+        "Selection": "Player X",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 13,
+        "Amount": 488.38,
+        "Odds": 1.65,
+        "Client": "Xander",
+        "Event": "Soccer Match",
+        "Market": "Winner",
+        "Selection": "Player X",
+        "Status": "VOID"
+    },
+    {
+        "Id": 14,
+        "Amount": 265.28,
+        "Odds": 1.95,
+        "Client": "Quinn",
+        "Event": "Horse Race",
+        "Market": "Game Winner",
+        "Selection": "Over 2.5",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 14,
+        "Amount": 265.28,
+        "Odds": 1.95,
+        "Client": "Quinn",
+        "Event": "Horse Race",
+        "Market": "Game Winner",
+        "Selection": "Over 2.5",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 15,
+        "Amount": 131.23,
+        "Odds": 2.74,
+        "Client": "Oliver",
+        "Event": "Soccer Match",
+        "Market": "Handicap",
+        "Selection": "Under 3.5",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 15,
+        "Amount": 131.23,
+        "Odds": 2.74,
+        "Client": "Oliver",
+        "Event": "Soccer Match",
+        "Market": "Handicap",
+        "Selection": "Under 3.5",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 16,
+        "Amount": 213.36,
+        "Odds": 1.94,
+        "Client": "Mia",
+        "Event": "MMA Fight",
+        "Market": "Over/Under",
+        "Selection": "Under 3.5",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 16,
+        "Amount": 213.36,
+        "Odds": 1.94,
+        "Client": "Mia",
+        "Event": "MMA Fight",
+        "Market": "Over/Under",
+        "Selection": "Under 3.5",
+        "Status": "VOID"
+    },
+    {
+        "Id": 17,
+        "Amount": 367.06,
+        "Odds": 2.19,
+        "Client": "Marcus",
+        "Event": "Baseball Game",
+        "Market": "Over/Under",
+        "Selection": "Player X",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 17,
+        "Amount": 367.06,
+        "Odds": 2.19,
+        "Client": "Marcus",
+        "Event": "Baseball Game",
+        "Market": "Over/Under",
+        "Selection": "Player X",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 18,
+        "Amount": 128.03,
+        "Odds": 1.42,
+        "Client": "Bob",
+        "Event": "Horse Race",
+        "Market": "Over/Under",
+        "Selection": "Player X",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 18,
+        "Amount": 128.03,
+        "Odds": 1.42,
+        "Client": "Bob",
+        "Event": "Horse Race",
+        "Market": "Over/Under",
+        "Selection": "Player X",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 19,
+        "Amount": 416.14,
+        "Odds": 2.84,
+        "Client": "Vera",
+        "Event": "Soccer Match",
+        "Market": "Game Winner",
+        "Selection": "Under 3.5",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 19,
+        "Amount": 416.14,
+        "Odds": 2.84,
+        "Client": "Vera",
+        "Event": "Soccer Match",
+        "Market": "Game Winner",
+        "Selection": "Under 3.5",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 20,
+        "Amount": 408.88,
+        "Odds": 1.77,
+        "Client": "Rachel",
+        "Event": "Baseball Game",
+        "Market": "Winner",
+        "Selection": "Horse 1",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 20,
+        "Amount": 408.88,
+        "Odds": 1.77,
+        "Client": "Rachel",
+        "Event": "Baseball Game",
+        "Market": "Winner",
+        "Selection": "Horse 1",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 21,
+        "Amount": 186.95,
+        "Odds": 1.85,
+        "Client": "Walter",
+        "Event": "MMA Fight",
+        "Market": "Winner",
+        "Selection": "Player Y",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 21,
+        "Amount": 186.95,
+        "Odds": 1.85,
+        "Client": "Walter",
+        "Event": "MMA Fight",
+        "Market": "Winner",
+        "Selection": "Player Y",
+        "Status": "VOID"
+    },
+    {
+        "Id": 22,
+        "Amount": 479.55,
+        "Odds": 3.22,
+        "Client": "Vincent",
+        "Event": "Basketball Game",
+        "Market": "Winner",
+        "Selection": "Over 2.5",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 22,
+        "Amount": 479.55,
+        "Odds": 3.22,
+        "Client": "Vincent",
+        "Event": "Basketball Game",
+        "Market": "Winner",
+        "Selection": "Over 2.5",
+        "Status": "VOID"
+    },
+    {
+        "Id": 23,
+        "Amount": 328.91,
+        "Odds": 1.48,
+        "Client": "Frank",
+        "Event": "Soccer Match",
+        "Market": "Game Winner",
+        "Selection": "Over 2.5",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 23,
+        "Amount": 328.91,
+        "Odds": 1.48,
+        "Client": "Frank",
+        "Event": "Soccer Match",
+        "Market": "Game Winner",
+        "Selection": "Over 2.5",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 24,
+        "Amount": 355.03,
+        "Odds": 3.34,
+        "Client": "Julia",
+        "Event": "Soccer Match",
+        "Market": "Game Winner",
+        "Selection": "Horse 2",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 24,
+        "Amount": 355.03,
+        "Odds": 3.34,
+        "Client": "Julia",
+        "Event": "Soccer Match",
+        "Market": "Game Winner",
+        "Selection": "Horse 2",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 25,
+        "Amount": 369.22,
+        "Odds": 1.23,
+        "Client": "Oscar",
+        "Event": "Basketball Game",
+        "Market": "Winner",
+        "Selection": "Horse 1",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 25,
+        "Amount": 369.22,
+        "Odds": 1.23,
+        "Client": "Oscar",
+        "Event": "Basketball Game",
+        "Market": "Winner",
+        "Selection": "Horse 1",
+        "Status": "VOID"
+    },
+    {
+        "Id": 26,
+        "Amount": 465.25,
+        "Odds": 2.09,
+        "Client": "Jack",
+        "Event": "Soccer Match",
+        "Market": "Total Points",
+        "Selection": "Player Y",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 26,
+        "Amount": 465.25,
+        "Odds": 2.09,
+        "Client": "Jack",
+        "Event": "Soccer Match",
+        "Market": "Total Points",
+        "Selection": "Player Y",
+        "Status": "VOID"
+    },
+    {
+        "Id": 27,
+        "Amount": 67.53,
+        "Odds": 1.31,
+        "Client": "Ximena",
+        "Event": "Tennis Match",
+        "Market": "Over/Under",
+        "Selection": "Under 3.5",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 27,
+        "Amount": 67.53,
+        "Odds": 1.31,
+        "Client": "Ximena",
+        "Event": "Tennis Match",
+        "Market": "Over/Under",
+        "Selection": "Under 3.5",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 28,
+        "Amount": 215.43,
+        "Odds": 1.96,
+        "Client": "Charlie",
+        "Event": "Basketball Game",
+        "Market": "Handicap",
+        "Selection": "Player Y",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 28,
+        "Amount": 215.43,
+        "Odds": 1.96,
+        "Client": "Charlie",
+        "Event": "Basketball Game",
+        "Market": "Handicap",
+        "Selection": "Player Y",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 29,
+        "Amount": 244.77,
+        "Odds": 2.23,
+        "Client": "Paul",
+        "Event": "Soccer Match",
+        "Market": "Draw",
+        "Selection": "Horse 1",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 29,
+        "Amount": 244.77,
+        "Odds": 2.23,
+        "Client": "Paul",
+        "Event": "Soccer Match",
+        "Market": "Draw",
+        "Selection": "Horse 1",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 30,
+        "Amount": 417.51,
+        "Odds": 2.18,
+        "Client": "Zane",
+        "Event": "Horse Race",
+        "Market": "Draw",
+        "Selection": "Horse 2",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 30,
+        "Amount": 417.51,
+        "Odds": 2.18,
+        "Client": "Zane",
+        "Event": "Horse Race",
+        "Market": "Draw",
+        "Selection": "Horse 2",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 31,
+        "Amount": 294.93,
+        "Odds": 1.66,
+        "Client": "Linda",
+        "Event": "MMA Fight",
+        "Market": "Winner",
+        "Selection": "Horse 2",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 31,
+        "Amount": 294.93,
+        "Odds": 1.66,
+        "Client": "Linda",
+        "Event": "MMA Fight",
+        "Market": "Winner",
+        "Selection": "Horse 2",
+        "Status": "VOID"
+    },
+    {
+        "Id": 32,
+        "Amount": 302.6,
+        "Odds": 3.31,
+        "Client": "Olivia",
+        "Event": "Soccer Match",
+        "Market": "Winner",
+        "Selection": "Player Y",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 32,
+        "Amount": 302.6,
+        "Odds": 3.31,
+        "Client": "Olivia",
+        "Event": "Soccer Match",
+        "Market": "Winner",
+        "Selection": "Player Y",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 33,
+        "Amount": 147.55,
+        "Odds": 2.6,
+        "Client": "Helen",
+        "Event": "Tennis Match",
+        "Market": "Winner",
+        "Selection": "Team B",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 33,
+        "Amount": 147.55,
+        "Odds": 2.6,
+        "Client": "Helen",
+        "Event": "Tennis Match",
+        "Market": "Winner",
+        "Selection": "Team B",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 34,
+        "Amount": 465.03,
+        "Odds": 1.65,
+        "Client": "Tina",
+        "Event": "Horse Race",
+        "Market": "Winner",
+        "Selection": "Team A",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 34,
+        "Amount": 465.03,
+        "Odds": 1.65,
+        "Client": "Tina",
+        "Event": "Horse Race",
+        "Market": "Winner",
+        "Selection": "Team A",
+        "Status": "VOID"
+    },
+    {
+        "Id": 35,
+        "Amount": 489.73,
+        "Odds": 1.64,
+        "Client": "Susan",
+        "Event": "Soccer Match",
+        "Market": "Game Winner",
+        "Selection": "Player X",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 35,
+        "Amount": 489.73,
+        "Odds": 1.64,
+        "Client": "Susan",
+        "Event": "Soccer Match",
+        "Market": "Game Winner",
+        "Selection": "Player X",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 36,
+        "Amount": 443.86,
+        "Odds": 2.32,
+        "Client": "Alice",
+        "Event": "Horse Race",
+        "Market": "Winner",
+        "Selection": "Under 3.5",
+        "Status": "VOID"
+    },
+    {
+        "Id": 36,
+        "Amount": 443.86,
+        "Odds": 2.32,
+        "Client": "Alice",
+        "Event": "Horse Race",
+        "Market": "Winner",
+        "Selection": "Under 3.5",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 37,
+        "Amount": 237.07,
+        "Odds": 1.71,
+        "Client": "Noah",
+        "Event": "Basketball Game",
+        "Market": "Total Points",
+        "Selection": "Under 3.5",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 37,
+        "Amount": 237.07,
+        "Odds": 1.71,
+        "Client": "Noah",
+        "Event": "Basketball Game",
+        "Market": "Total Points",
+        "Selection": "Under 3.5",
+        "Status": "VOID"
+    },
+    {
+        "Id": 38,
+        "Amount": 87.49,
+        "Odds": 2.72,
+        "Client": "Tina",
+        "Event": "Baseball Game",
+        "Market": "First Goal",
+        "Selection": "Horse 1",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 38,
+        "Amount": 87.49,
+        "Odds": 2.72,
+        "Client": "Tina",
+        "Event": "Baseball Game",
+        "Market": "First Goal",
+        "Selection": "Horse 1",
+        "Status": "VOID"
+    },
+    {
+        "Id": 39,
+        "Amount": 325.96,
+        "Odds": 3.02,
+        "Client": "Quinn",
+        "Event": "Basketball Game",
+        "Market": "Draw",
+        "Selection": "Player X",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 39,
+        "Amount": 325.96,
+        "Odds": 3.02,
+        "Client": "Quinn",
+        "Event": "Basketball Game",
+        "Market": "Draw",
+        "Selection": "Player X",
+        "Status": "VOID"
+    },
+    {
+        "Id": 40,
+        "Amount": 446.06,
+        "Odds": 1.41,
+        "Client": "Zach",
+        "Event": "Basketball Game",
+        "Market": "Total Points",
+        "Selection": "Over 2.5",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 40,
+        "Amount": 446.06,
+        "Odds": 1.41,
+        "Client": "Zach",
+        "Event": "Basketball Game",
+        "Market": "Total Points",
+        "Selection": "Over 2.5",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 41,
+        "Amount": 102.16,
+        "Odds": 3.37,
+        "Client": "Mia",
+        "Event": "Tennis Match",
+        "Market": "Over/Under",
+        "Selection": "Player X",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 41,
+        "Amount": 102.16,
+        "Odds": 3.37,
+        "Client": "Mia",
+        "Event": "Tennis Match",
+        "Market": "Over/Under",
+        "Selection": "Player X",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 42,
+        "Amount": 394.85,
+        "Odds": 3.27,
+        "Client": "Jack",
+        "Event": "MMA Fight",
+        "Market": "Over/Under",
+        "Selection": "Team A",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 42,
+        "Amount": 394.85,
+        "Odds": 3.27,
+        "Client": "Jack",
+        "Event": "MMA Fight",
+        "Market": "Over/Under",
+        "Selection": "Team A",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 43,
+        "Amount": 474.54,
+        "Odds": 2.32,
+        "Client": "Vincent",
+        "Event": "Tennis Match",
+        "Market": "Winner",
+        "Selection": "Horse 2",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 43,
+        "Amount": 474.54,
+        "Odds": 2.32,
+        "Client": "Vincent",
+        "Event": "Tennis Match",
+        "Market": "Winner",
+        "Selection": "Horse 2",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 44,
+        "Amount": 320.78,
+        "Odds": 1.51,
+        "Client": "Jack",
+        "Event": "MMA Fight",
+        "Market": "Handicap",
+        "Selection": "Under 3.5",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 44,
+        "Amount": 320.78,
+        "Odds": 1.51,
+        "Client": "Jack",
+        "Event": "MMA Fight",
+        "Market": "Handicap",
+        "Selection": "Under 3.5",
+        "Status": "VOID"
+    },
+    {
+        "Id": 45,
+        "Amount": 470.98,
+        "Odds": 1.96,
+        "Client": "Ian",
+        "Event": "Baseball Game",
+        "Market": "Draw",
+        "Selection": "Horse 2",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 45,
+        "Amount": 470.98,
+        "Odds": 1.96,
+        "Client": "Ian",
+        "Event": "Baseball Game",
+        "Market": "Draw",
+        "Selection": "Horse 2",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 46,
+        "Amount": 244.46,
+        "Odds": 3.33,
+        "Client": "Sophia",
+        "Event": "Soccer Match",
+        "Market": "Over/Under",
+        "Selection": "Horse 2",
+        "Status": "VOID"
+    },
+    {
+        "Id": 46,
+        "Amount": 244.46,
+        "Odds": 3.33,
+        "Client": "Sophia",
+        "Event": "Soccer Match",
+        "Market": "Over/Under",
+        "Selection": "Horse 2",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 47,
+        "Amount": 477.45,
+        "Odds": 2.71,
+        "Client": "Paul",
+        "Event": "Horse Race",
+        "Market": "Over/Under",
+        "Selection": "Over 2.5",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 47,
+        "Amount": 477.45,
+        "Odds": 2.71,
+        "Client": "Paul",
+        "Event": "Horse Race",
+        "Market": "Over/Under",
+        "Selection": "Over 2.5",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 48,
+        "Amount": 128.02,
+        "Odds": 1.93,
+        "Client": "Xander",
+        "Event": "Baseball Game",
+        "Market": "Handicap",
+        "Selection": "Horse 2",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 48,
+        "Amount": 128.02,
+        "Odds": 1.93,
+        "Client": "Xander",
+        "Event": "Baseball Game",
+        "Market": "Handicap",
+        "Selection": "Horse 2",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 49,
+        "Amount": 268.47,
+        "Odds": 3.06,
+        "Client": "Oscar",
+        "Event": "Basketball Game",
+        "Market": "Over/Under",
+        "Selection": "Horse 2",
+        "Status": "WINNER"
+    },
+    {
+        "Id": 49,
+        "Amount": 268.47,
+        "Odds": 3.06,
+        "Client": "Oscar",
+        "Event": "Basketball Game",
+        "Market": "Over/Under",
+        "Selection": "Horse 2",
+        "Status": "LOSER"
+    },
+    {
+        "Id": 50,
+        "Amount": 337.35,
+        "Odds": 1.58,
+        "Client": "Quinn",
+        "Event": "Tennis Match",
+        "Market": "Over/Under",
+        "Selection": "Team B",
+        "Status": "OPEN"
+    },
+    {
+        "Id": 50,
+        "Amount": 337.35,
+        "Odds": 1.58,
+        "Client": "Quinn",
+        "Event": "Tennis Match",
+        "Market": "Over/Under",
+        "Selection": "Team B",
+        "Status": "VOID"
+    }
+]
